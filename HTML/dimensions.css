@@ -1,0 +1,22 @@
+h2{
+    font-size: 1.5rem;
+}
+.demo{
+    font-size: 3rem;
+}
+.ip{
+    font-size: 2em;
+}
+.demo1{
+    font-size: 20px;
+}
+.persent_class{
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.p_1{
+    width: 50vw; 
+    height: 50%;
+    background-color: gray;
+}
